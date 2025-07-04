@@ -50,10 +50,10 @@ ApnaCollegeJava/
 
 ## ✍️ Author
 
-**Akash**  
+**RISHAV DEWAN**  
 Student at Newton School of Technology  
 Learning Java DSA from Apna College  
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+GitHub: [https://github.com/your-username](https://github.com/rish-106hub)
 
 <br>
 
