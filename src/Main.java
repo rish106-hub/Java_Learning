@@ -29,5 +29,9 @@ public class Main {
         System.out.println("Boolean: " + isTrue);
         System.out.println("String: " + test);
         //very important to note that for long we need to use L at the end of the number and F for at the end of the float number
+        //Java is a strongly typed language, meaning that every variable must be declared with a type.
+        String name1 = "Rishav";
+        int a1 =name1.length();
+        System.out.println(a1);
     }
 }
